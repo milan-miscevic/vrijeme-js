@@ -16,9 +16,9 @@ function loadPurpleAir(url, field)
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-  loadPurpleAir('http://www.purpleair.com/json?show=33637', 'purple-air-centar');
-  loadPurpleAir('http://www.purpleair.com/json?show=33099', 'purple-air-mejdan');
-  loadPurpleAir('http://www.purpleair.com/json?show=43831', 'purple-air-budzak');
-  loadPurpleAir('http://www.purpleair.com/json?show=33627', 'purple-air-trn');
-  loadPurpleAir('http://www.purpleair.com/json?show=44385', 'purple-air-jajce');
+  loadPurpleAir('https://www.purpleair.com/json?show=33637', 'purple-air-centar');
+  loadPurpleAir('https://www.purpleair.com/json?show=33099', 'purple-air-mejdan');
+  loadPurpleAir('https://www.purpleair.com/json?show=43831', 'purple-air-budzak');
+  loadPurpleAir('https://www.purpleair.com/json?show=33627', 'purple-air-trn');
+  loadPurpleAir('https://www.purpleair.com/json?show=44385', 'purple-air-jajce');
 });

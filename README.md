@@ -1,3 +1,3 @@
-# vrijemejs
+# vrijeme-js
 
-vrijemejs (lit. weatherjs) is a JavaScript version of the [vrijeme3](https://github.com/milan-miscevic/vrijeme3) project.
+vrijeme-js (lit. weather-js) is a JavaScript version of the [vrijeme3](https://github.com/milan-miscevic/vrijeme3) project.
